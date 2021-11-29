@@ -1,0 +1,20 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body,html {
+    background-color:lightslategrey;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    min-height:100vh;
+    min-width:650px;
+}
+img {
+    display:block;
+    border-radius: 30px;
+    border: black solid 5px;
+    box-shadow: black 0px 0px 10px;
+    width:640px;
+}
